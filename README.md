@@ -4,5 +4,5 @@
 
 🌱 As a perpetual student, I'm always seeking opportunities to learn and grow. Whether it's mastering new programming languages, understanding algorithms, or exploring the latest tech trends, count me in for the challenge!
 
-🎓 Let's connect and learn together!
-
+## Contact Me
+- 📧 Email: rohaim042@gmail.com
