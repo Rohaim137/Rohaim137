@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Rohaim, a computer science student at FAST NUCES Lahore.
 
-📚 Currently learning full stack web development, I'm on a mission to blend theoretical knowledge gained over the years with hands-on experience. While my project portfolio may be limited for now, I'm a passionate learner eagerly exploring different realms of computer science.
+📚 Currently learning the basics of machine learning, I'm on a mission to blend theoretical knowledge gained over the years with hands-on experience. While my project portfolio may be limited for now, I'm a passionate learner eagerly exploring different realms of computer science.
 
 🌱 As a perpetual student, I'm always seeking opportunities to learn and grow. Whether it's mastering new programming languages, understanding algorithms, or exploring the latest tech trends, count me in for the challenge!
 
