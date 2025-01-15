@@ -12,7 +12,6 @@
 
 
 Languages and Tools:
-<p>
+<br>
   [![Languages and Tools](https://skillicons.dev/icons?i=c,cpp,python,html,css,bootstrap,linux,mysql,django,nextjsfigma&theme=light)](https://skillicons.dev)
-</p>
 
